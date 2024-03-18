@@ -7,7 +7,7 @@ public class anagram {
 
 		public static void main(String[] args) 
 		{
-			String first="heaven2";
+			String first="heaven31";
 			String second="eeavhn";
 			
 			if(first.length()!=second.length())
